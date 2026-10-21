@@ -1,3 +1,5 @@
+Name: Kyuhwan Lyoo
+Title: Module 1 Bash and Git Project
 Script started on Tue Oct 20 19:39:16 2026
 [1m[7m%[27m[1m[0m                                                                                                                        ]7;file://Kyuhwans-MacBook-Air.local/Users/kyuhwanlyoo/sds510[0m[27m[24m[Jkyuhwanlyoo@Kyuhwans-MacBook-Air sds510 % [K[?2004hbbash[?2004l
 
